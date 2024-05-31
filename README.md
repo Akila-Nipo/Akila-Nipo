@@ -5,6 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akila-nipo&label=Profile%20views&color=0e75b6&style=flat" alt="akila-nipo" /> </p>
 
+<div style="text-align:center;">
+    <div style="display:inline-block; margin:10px;">
+        <a href="https://github.com/Akila-Nipo">
+            <img src="https://img.shields.io/badge/Pull%20Requests-%E2%9C%94%20Merged-brightgreen" alt="Pull Requests">
+        </a>
+    </div>
+    <div style="display:inline-block; margin:10px;">
+        <a href="https://github.com/Akila-Nipo">
+            <img src="https://img.shields.io/badge/Quickdraw-Unlocked-blue" alt="Quickdraw">
+        </a>
+    </div>
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akila-nipo" alt="akila-nipo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -12,6 +25,8 @@
 - 🔭 I’ve recently worked on [Exam Billing System , JU](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND)
 - 👯 I’m looking to collaborate on [Smart Class Routine Management System](https://github.com/RubayedMunna/SmartClassRoutine)
 - 🔧 I contributed to the project [National Collegiate Programming Contest-NCPC 2023](https://github.com/sekul-hassan/ncpcfrontend)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
