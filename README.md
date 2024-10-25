@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akila Nipo</h1>
-<h3 align="center">As a dedicated front-end developer, I balance my academic responsibilities with hands-on experience to craft responsive web applications. My focus lies in developing user-centric designs that are both visually appealing and highly functional.</h3>
+<h3 align="center">As a dedicated full-stack developer, I balance my academic responsibilities with hands-on experience to craft responsive web applications. My focus lies in developing user-centric designs that are both visually appealing and highly functional.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 
