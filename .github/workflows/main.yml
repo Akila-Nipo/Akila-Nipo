@@ -2,16 +2,52 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate metrics
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          # Use your GitHub token stored in repository secrets
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Output filename for the generated metrics
+          filename: metrics.svg
+          
+          # Enable core metrics
           base: header, activity, community, repositories, metadata
+          
+          # Include an isometric calendar graph
+          config_timezone: UTC
+          isocalendar: yes
+          isocalendar.duration: full-year
+          
+          # Enable repositories and achievements
+          repositories: 100
+          repositories.affiliations: owner
+          notable: yes
+          achievements: yes
+          
+          # Enable language statistics
+          languages: yes
+          languages.ignored: html, css  # Ignore certain languages
+          languages.limit: 6  # Show top 6 languages
+          
+          # Enable follow-up section
+          followup: yes
+          
+          # Enable contributors metrics
+          contributors: yes
+          
+          # Display detailed stats (commits, PRs, code reviews, etc.)
+          plugin_activity: yes
+          plugin_activity_days: 30  # Show activity for the last 30 days
+          plugin_activity_filter: all
+          
+          # Show the organization memberships
+          plugin_organizations: yes
