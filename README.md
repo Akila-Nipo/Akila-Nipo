@@ -22,8 +22,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’ve recently worked on [Exam Billing System , JU](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND)
-- 👯 I’m looking to collaborate on [Smart Class Routine Management System](https://github.com/RubayedMunna/SmartClassRoutine)
+- 🔭 I’ve recently worked on [Exam Billing System , JU](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND, whuch was basically to automate the billing procedures of the university teachers under various exam criteria.
+- 👯 I’m currently working on implementing a project for my university [Smart Class Routine Management System](https://github.com/JUCSE49-Mavericks/Smart-Class-Routine-Management-System )
 - 🔧 I contributed to the project [National Collegiate Programming Contest-NCPC 2023](https://github.com/sekul-hassan/ncpcfrontend)
 
 
