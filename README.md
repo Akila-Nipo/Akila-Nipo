@@ -26,9 +26,9 @@
 
 | 🛠️ Project | 📄 Description |
 |------------|----------------|
-| 🧾 [**Exam Billing System, JU**](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND) | Automated the billing procedures for university teachers under various exam criteria. |
 | 🏛️ [**Smart Class Routine Management System**](https://github.com/JUCSE49-Mavericks/Smart-Class-Routine-Management-System) | Ongoing project to build a smart routine system for class scheduling at university. |
-| ✅✅ [**NCPC 2023 Contribution**](https://github.com/sekul-hassan/ncpcfrontend) | Contributed to the frontend of National Collegiate Programming Contest 2023. |
+| ✅ [**National Collegiate Programming Contest (NCPC)2023**](https://github.com/sekul-hassan/ncpcfrontend) | Contributed to the frontend of the website of National Collegiate Programming Contest 2023. |
+| 🧾 [**Exam Billing System, JU**](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND) | Automated the billing procedures for university teachers under various exam criteria. |
 
 ---
 
