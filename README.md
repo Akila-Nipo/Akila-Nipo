@@ -22,11 +22,24 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’ve recently worked on [Exam Billing System , JU](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND), which was basically to automate the billing procedures of the university teachers under various exam criteria.
-- 👯 I’m currently working on implementing a project for my university [Smart Class Routine Management System](https://github.com/JUCSE49-Mavericks/Smart-Class-Routine-Management-System )
-- 🔧 I contributed to the project [National Collegiate Programming Contest-NCPC 2023](https://github.com/sekul-hassan/ncpcfrontend)
+### 💡 Real Life Projects Implemented During Undergrad
 
+| 🛠️ Project | 📄 Description |
+|------------|----------------|
+| 🧾 [**Exam Billing System, JU**](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND) | Automated the billing procedures for university teachers under various exam criteria. |
+| 🏛️ [**Smart Class Routine Management System**](https://github.com/JUCSE49-Mavericks/Smart-Class-Routine-Management-System) | Ongoing project to build a smart routine system for class scheduling at university. |
+| ✅✅ [**NCPC 2023 Contribution**](https://github.com/sekul-hassan/ncpcfrontend) | Contributed to the frontend of National Collegiate Programming Contest 2023. |
 
+---
+
+### 🌐 Organizations I'm Part Of
+
+| 🏢 Organization | 💬 Role / Work |
+|----------------|----------------|
+| 🛠️ [**Mavericks**](https://github.com/JUCSE49-Mavericks) | Full stack development for university-based projects. |
+| 🧠 [**Odyssey**](https://github.com/Odyssey-CSEJU) | Focused on NLP and AI projects, especially Bengali Sign Language Recognition. |
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
