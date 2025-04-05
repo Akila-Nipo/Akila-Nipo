@@ -56,5 +56,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=akila-nipo&langs_count=10&layout=compact&hide=css,html" 
     alt="Top languages for akila-nipo" />
 </p></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akila-nipo&show_icons=true&locale=en" alt="akila-nipo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-nipo&" alt="akila-nipo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akila-nipo&show_icons=true&locale=en" alt="akila-nipo" /></p></br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akila-nipo&" alt="akila-nipo" /></p>
