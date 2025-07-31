@@ -37,14 +37,15 @@
 This document summarizes software engineering and lab-based academic projects, including tech stacks, workflows, and repositories.
 
 
-| 🚀 **Project Name** | 🎓 **Course / Lab** | 📝 **Description** | 🛠️ **Tools & Technologies** |
-|:---------------------|:--------------------|:--------------------|:-----------------------------|
-| [💡 **Smart Class Routine Management System**](https://github.com/JUCSE49-Mavericks/Smart-Class-Routine-Management-System) | **Software Engineering & ISD Lab** | Automates class routine generation based on teacher availability and filters (year, dept, course) | React.js, Node.js, MVC, Agile (Scrum), GitHub Actions, JSDoc, Mocha, CI/CD, UML, Trello |
-| [🍽️ **JU DINE**](https://github.com/Akila-Nipo/JUDine) | **Mobile App Dev Lab (CSE-410)** | Android app for managing hall meals and feast registration with admin/student roles | Java, Firebase Auth, Firestore, PDF Generator, XML, Android SDK |
-| [🏭 **Smart Warehouse System**](https://github.com/Akila-Nipo/IoT-Based-Smart-Warehouse) | **IoT Lab** | Real-time warehouse safety monitoring using sensors (gas, flame, smoke) with alert triggers | ESP32, MQ135/MQ2, DHT22, Flame Sensor, ThingSpeak, Arduino IDE |
-| [🌿 **Medicinal Leaf Classification**](https://github.com/Akila-Nipo/Medicinal_Leaf_Classification_JU) | **Machine Learning Lab (CSE-458)** | Image-based classification using ML models (SVM, RF) with PCA and OpenCV preprocessing | Python, scikit-learn, OpenCV, PCA, Jupyter Notebook |
-| [💉 **Corona Vaccination Management**](https://github.com/Akila-Nipo/CORONA_Vaccination_Managaement_JU) | **Object-Oriented Programming (CSE-212)** | Java program to manage vaccine records using OOP principles | Java, OOP (Inheritance, Polymorphism), Console I/O |
-| [🧾 **Exam Bill Management System**](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND) | **Web Design & Programming Lab** | Web app to automate faculty exam bill generation with dynamic input forms and Django backend | React.js, Django, MVC, Bootstrap, GitHub, Figma |
+
+| 🚀 **Project Name** | 🎓 **Course / Laboratory** | 📝 **Description** | 🛠️ **Tools & Technologies** |
+|:-------------------:|:--------------------------:|:------------------:|:---------------------------:|
+| [💡 **Smart Class Routine Management System**](https://github.com/JUCSE49-Mavericks/Smart-Class-Routine-Management-System) | **Software Engineering and Information Systems Development Laboratory** | Automates class routine generation based on teacher availability and filters (year, department, course) | React.js, Node.js, MVC, Agile (Scrum), GitHub Actions, JSDoc, Mocha, CI/CD, UML, Trello |
+| [🍽️ **JU DINE**](https://github.com/Akila-Nipo/JUDine) | **Mobile Application Development Laboratory (CSE-410)** | Android app for managing hall meals and feast registration with admin and student roles | Java, Firebase Authentication, Firestore, PDF Generator, XML, Android SDK |
+| [🏭 **Smart Warehouse System**](https://github.com/Akila-Nipo/IoT-Based-Smart-Warehouse) | **Internet of Things (IoT) Laboratory** | Real-time warehouse safety monitoring using sensors (gas, flame, smoke) with alert triggers | ESP32, MQ135/MQ2, DHT22, Flame Sensor, ThingSpeak, Arduino IDE |
+| [🌿 **Medicinal Leaf Classification**](https://github.com/Akila-Nipo/Medicinal_Leaf_Classification_JU) | **Machine Learning Laboratory (CSE-458)** | Image-based classification using ML models (SVM, Random Forest) with PCA and OpenCV preprocessing | Python, scikit-learn, OpenCV, PCA, Jupyter Notebook |
+| [💉 **Corona Vaccination Management**](https://github.com/Akila-Nipo/CORONA_Vaccination_Managaement_JU) | **Object-Oriented Programming (CSE-212)** | Java program to manage vaccine records using Object-Oriented Programming principles | Java, OOP (Inheritance, Polymorphism), Console I/O |
+| [🧾 **Exam Bill Management System**](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND)| **Web Design and Programming Laboratory** | Web app to automate faculty exam bill generation with dynamic input forms and secure backend | Frontend: [React.js](https://github.com/Akila-Nipo/Exam_Billing_System_JU_FRONTEND) <br> Backend: [Django MVC](https://github.com/Akila-Nipo/Exam_Billing_System_JU_BACKEND) |
 
 ---
 
