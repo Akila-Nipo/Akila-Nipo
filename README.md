@@ -64,10 +64,10 @@ This document summarizes software engineering and lab-based academic projects, i
 <a href="https://www.linkedin.com/in/akila-nipo-076256311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akila nipo" height="30" width="40" /></a>
 
   <a href="https://scholar.google.com/citations?user=6u1pRhsAAAAJ&hl=en" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-scholar.svg" alt="Akila Nipo" height="30" width="40" />
+    <img align="center" src="https://github.com/Akila-Nipo/garbagereporting/blob/master/png-transparent-google-scholar-hd-logo-thumbnail.png?raw=true" alt="Akila Nipo" height="30" width="30" />
   </a>
 <a href="https://www.researchgate.net/profile/Akila-Nipo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="Akila Nipo" height="30" width="40" />
+    <img align="center" src="https://github.com/Akila-Nipo/garbagereporting/blob/master/png-transparent-researchgate-free-university-of-berlin-science-walkden-blue-text-trademark-thumbnail.png?raw=true" alt="Akila Nipo" height="30" width="30" />
   </a>
 
 <a href="https://fb.com/akila nipo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akila nipo" height="30" width="40" /></a>
